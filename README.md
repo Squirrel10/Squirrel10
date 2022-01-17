@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Squirrel10
+- 👋 Hi, I’m Patrick
 - 👀 I’m interested in coding and 3D art
-- 🌱 I’m currently learning how to program with android
+- 🌱 I’m studying programming/computer science
 - 💞️ I’m looking to collaborate on some projects!
 - 📫 How to reach me ...
 
